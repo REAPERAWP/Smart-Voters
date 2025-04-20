@@ -9,7 +9,7 @@
 - ✅ **User Registration & Login**  
 - ✅ **Cast Vote for a Candidate** (One-time voting logic)  
 - ✅ **Admin Panel** for viewing results and managing users  
-- ✅ **SQLite** (or Firebase/Backend) integration for storing user/vote data  
+- ✅ **SQLite** (Firebase/Backend) integration for storing user/vote data  
 - ✅ **Secure login system** to prevent multiple voting  
 - ✅ Clean and simple **Material UI**  
 
